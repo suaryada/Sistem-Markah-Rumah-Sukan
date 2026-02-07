@@ -1,0 +1,5 @@
+{
+  "name": "Sistem Markah Rumah Sukan (SPMS)",
+  "description": "Sistem pengurusan markah rumah sukan yang membolehkan admin memasukkan markah bagi setiap acara dan menyediakan papan pemuka visual untuk tontonan awam.",
+  "requestFramePermissions": []
+}
